@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90218" started-at="2018-05-15T09:37:37Z" finished-at="2018-05-15T09:39:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90218" started-at="2018-05-15T09:37:37Z" finished-at="2018-05-15T09:39:07Z">
+      <class name="MySpaceConfig.Maven.UtilizationClass">
+        <test-method status="PASS" signature="login()[pri:0, instance:MySpaceConfig.Maven.UtilizationClass@7823a2f9]" name="login" is-config="true" duration-ms="11972" started-at="2018-05-15T15:07:37Z" finished-at="2018-05-15T15:07:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="myspaceLogin()[pri:1, instance:MySpaceConfig.Maven.UtilizationClass@7823a2f9]" name="myspaceLogin" duration-ms="841" started-at="2018-05-15T15:07:49Z" finished-at="2018-05-15T15:07:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myspaceLogin -->
+        <test-method status="PASS" signature="mySpaceThemes()[pri:2, instance:MySpaceConfig.Maven.UtilizationClass@7823a2f9]" name="mySpaceThemes" duration-ms="9844" started-at="2018-05-15T15:07:50Z" finished-at="2018-05-15T15:08:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySpaceThemes -->
+        <test-method status="PASS" signature="mySpaceThemesDisplay()[pri:3, instance:MySpaceConfig.Maven.UtilizationClass@7823a2f9]" name="mySpaceThemesDisplay" duration-ms="61130" started-at="2018-05-15T15:08:00Z" finished-at="2018-05-15T15:09:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySpaceThemesDisplay -->
+        <test-method status="PASS" signature="mySpaceActiveTheme()[pri:4, instance:MySpaceConfig.Maven.UtilizationClass@7823a2f9]" name="mySpaceActiveTheme" duration-ms="3774" started-at="2018-05-15T15:09:01Z" finished-at="2018-05-15T15:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySpaceActiveTheme -->
+        <test-method status="PASS" signature="mySpaceThemeSave()[pri:5, instance:MySpaceConfig.Maven.UtilizationClass@7823a2f9]" name="mySpaceThemeSave" duration-ms="2458" started-at="2018-05-15T15:09:05Z" finished-at="2018-05-15T15:09:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySpaceThemeSave -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:MySpaceConfig.Maven.UtilizationClass@7823a2f9]" name="driverClose" is-config="true" duration-ms="161" started-at="2018-05-15T15:09:07Z" finished-at="2018-05-15T15:09:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- MySpaceConfig.Maven.UtilizationClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
